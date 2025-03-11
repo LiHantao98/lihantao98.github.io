@@ -22,9 +22,12 @@ News!!
 
 Publication
 ======
+**Accepted/In Press**
+-  **Li H**, Li X, Kato T, et al. National-scale Calibrated GEDI AGBD Models for Effective Assessment of Growth Conditions Across Forest Strata. Forest Ecology and Management (IF:3.7)
 **In preparation/Submitted/In Review/In Revision**
--  **Li H**, Li X, Kato T, et al. National-scale Calibrated GEDI AGBD Models for Effective Assessment of Growth Conditions Across Forest Strata. **Under Review**
--  Assessing Forest Resilience to Typhoons Using GEDI Data. **🚀If you are interested in this topic, please feel free to contact me.**
+**🚀If you are interested in this topic, please feel free to contact me.**
+-  Assessing Forest Resilience to Typhoons Using GEDI Data.
+-  Multisource Satellite Data Reveals 20 years of Forest AGB Changes in Japan
 
 **Peer-reviewed**
 - **Li H**, Kato T, Hayashi M, et al. Estimation of forest aboveground biomass of two major conifers in Ibaraki Prefecture, Japan, from palsar-2 and sentinel-2 data[J]. Remote Sensing, 2022, 14(3): 468. (IF:4.2)
