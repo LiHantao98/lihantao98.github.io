@@ -40,6 +40,7 @@ Internships
 ======
 -  OPPO Research Institute, Shenzhen, China; Machine Learning Researcher Intern; December 2021 – February 2022. Developed deep learning models based on large-scale user behavior data extracted from databases to classify active and inactive users. Completed and debugged relevant machine learning code.
 -  School of Urban and Environmental Sciences, Peking University, Shenzhen, China; Research Assistant; February 2022 – May 2022. Extracted relevant user flow data from mobile user movement data according to project requirements, and performed data cleaning, organization, and analysis.
+-  Sagri, Tokyo, Japan; Research Assistant; Nov 2024 – Mar 2025. Deep learning framework for cloud masking.
 
 Projects and awards
 ======
