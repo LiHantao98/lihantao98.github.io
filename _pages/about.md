@@ -28,7 +28,7 @@ Publication
 **In preparation/Submitted/In Review/In Revision**
 🚀If you are interested in this topic, please feel free to contact me.
 -  Assessing Forest Resilience to Typhoons Using GEDI Data.
--  Multisource Satellite Data Reveals 10 years of Forest AGBD Changes in Japan **Under Review, Remote Sensing of Environment**
+-  Multisource Satellite Data Reveals 10 years of Forest AGBD Changes in Japan. Under Review, Remote Sensing of Environment.
 
 **Peer-reviewed**
 - **Li H**, Kato T, Hayashi M, et al. Estimation of forest aboveground biomass of two major conifers in Ibaraki Prefecture, Japan, from palsar-2 and sentinel-2 data[J]. Remote Sensing, 2022, 14(3): 468. 
