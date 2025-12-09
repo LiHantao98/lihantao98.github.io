@@ -17,40 +17,41 @@ In addition, I am deeply concerned with the impacts of climate change on forest 
 
 News!!
 ======
+- **2025.12.10**: Updated.
 - **2025.01.17**: I will no longer continue my internship after March 2025 due to my graduation thesis.
 - **2024.09.04**: 🚀 I am actively seeking internships related to machine learning or remote sensing technology.機械学習またはリモートセンシング技術に関連するインターンシップを積極的に探しています！ Please feel free to contact with me! お気軽にご連絡ください！
 
 Publication
-======
-**Accepted/In Press**
-
-
+======**Peer-reviewed**
 **In preparation/Submitted/In Review/In Revision**
 🚀If you are interested in this topic, please feel free to contact me.
 -  Assessing Forest Resilience to Typhoons Using GEDI Data.
--  Multisource Satellite Data Reveals 10 years of Forest AGBD Changes in Japan. Under Review, Remote Sensing of Environment.
+-  Multisource Satellite Data Reveals 10 years of Forest AGBD Changes in Japan. Minor revision, Journal of Forestry Research.
 
-**Peer-reviewed**
+**Published/Accepted/In Press**
 - **Li H**, Kato T, Hayashi M, et al. Estimation of forest aboveground biomass of two major conifers in Ibaraki Prefecture, Japan, from palsar-2 and sentinel-2 data[J]. Remote Sensing, 2022, 14(3): 468. 
 - **Li H**, Kato T, Hayashi M, et al. Using multisource satellite products to estimate forest aboveground biomass in Oita prefecture: a novel approach with improved accuracy and computational efficiency[J]. Geocarto International, 2022: 1-20. 
 - **Li H**, Li X, Kato T, et al. Accuracy Assessment of GEDI Terrain Elevation, Canopy Height, and Aboveground Biomass Density Estimates in Japanese Artificial Forests[J]. Science of Remote Sensing, 2024: 100144. 
 - **Li H**, Hiroshima T, Li X, et al. High-resolution mapping of forest structure and carbon stock using multi-source remote sensing data in Japan[J]. Remote Sensing of Environment, 2024, 312: 114322. 
 - **Li H** , Li, X., Kato, T., Inukai, S., & Hiroshima, T. (2025). National-scale calibrated GEDI AGBD models for effective assessment of growth conditions across forest strata[J]. Forest Ecology and Management, 2025, 585, 122657.
+- **Li H**, Hiroshima T, Li X, et al. (2025) Improving GEDI Geolocation Accuracy with Ultra-High-Resolution DTM Data in Japan Manuscript[J]. GIScience & Remote Sensing, In press 
 
 Internships
 ======
 -  OPPO Research Institute, Shenzhen, China; Machine Learning Researcher Intern; December 2021 – February 2022. Developed deep learning models based on large-scale user behavior data extracted from databases to classify active and inactive users. Completed and debugged relevant machine learning code.
 -  School of Urban and Environmental Sciences, Peking University, Shenzhen, China; Research Assistant; February 2022 – May 2022. Extracted relevant user flow data from mobile user movement data according to project requirements, and performed data cleaning, organization, and analysis.
 -  Sagri, Tokyo, Japan; Research Assistant; Nov 2024 – Mar 2025. Deep learning framework for cloud masking.
+-  Institute for Future Initiatives, The University of Tokyo, Tokyo, Japan; Research Assistant; Nov 2025-.
 
 Projects and awards
 ======
 - Support for Pioneering Research Initiated by Next Generation (SPRING) of Japan Science and Technology Agency (JST) from 2024-2026 (expected) @Utokyo
 - World-leading Innovative Graduate Study Program on Global Leadership for Social Design and Management (WINGS-GSDM) from 2023-2026 (expected) @Utokyo
+- 問題複合体を対象とするデジタルアース共同利用・共同研究拠点２０２５年度共同研究公募  from 2025-2026 @中部大学国際ＧＩＳセンター
 
 Skills
 ======
-- **Language:** Japanese (Conversation with JLPT.N2), Chinese -Cantonese, Mandarin (native), English (Fluent with TOEFL.95).
+- **Language:** Japanese, Chinese -Cantonese, Mandarin, English.
 - **Programming:** Python, Javascript, mySQL
-- **Interests:** Travel, photograph, Table tennis
+
 
