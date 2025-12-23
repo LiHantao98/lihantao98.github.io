@@ -25,8 +25,9 @@ Publication
 ======**Peer-reviewed**
 **In preparation/Submitted/In Review/In Revision**
 🚀If you are interested in this topic, please feel free to contact me.
+-  Forest Management from Space: A Spaceborne LiDAR-Based Model Suite for Monitoring Needleleaf Forests in Japan. In submission.
+-  What Has Human Modification Brought to Forests?
 -  Assessing Forest Resilience to Typhoons Using GEDI Data.
--  Multisource Satellite Data Reveals 10 years of Forest AGBD Changes in Japan. Minor revision, Journal of Forestry Research.
 
 **Published/Accepted/In Press**
 - **Li H**, Kato T, Hayashi M, et al. Estimation of forest aboveground biomass of two major conifers in Ibaraki Prefecture, Japan, from palsar-2 and sentinel-2 data[J]. Remote Sensing, 2022, 14(3): 468. 
@@ -34,7 +35,8 @@ Publication
 - **Li H**, Li X, Kato T, et al. Accuracy Assessment of GEDI Terrain Elevation, Canopy Height, and Aboveground Biomass Density Estimates in Japanese Artificial Forests[J]. Science of Remote Sensing, 2024: 100144. 
 - **Li H**, Hiroshima T, Li X, et al. High-resolution mapping of forest structure and carbon stock using multi-source remote sensing data in Japan[J]. Remote Sensing of Environment, 2024, 312: 114322. 
 - **Li H** , Li, X., Kato, T., Inukai, S., & Hiroshima, T. (2025). National-scale calibrated GEDI AGBD models for effective assessment of growth conditions across forest strata[J]. Forest Ecology and Management, 2025, 585, 122657.
-- **Li H**, Hiroshima T, Li X, et al. (2025) Improving GEDI Geolocation Accuracy with Ultra-High-Resolution DTM Data in Japan Manuscript[J]. GIScience & Remote Sensing, In press 
+- **Li H**, Li X, Hiroshima T, et al. (2025). Improving GEDI geolocation accuracy with ultra-high-resolution DTM data in Japan[J]. GIScience & Remote Sensing, 62(1).
+- **Li H**, Hiroshima T, Li X, et al. (2025). Assessing Temporal Trends of Forest Aboveground Biomass Density in Japan from 2009 to 2018 under Disturbance Regimes Using Multisource Remote Sensing Data[J]. Journal of Forestry Research. Accept. 
 
 Internships
 ======
