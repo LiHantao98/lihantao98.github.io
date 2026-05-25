@@ -23,7 +23,7 @@ Publication
 ======**Peer-reviewed**
 **In preparation/Submitted/In Review/In Revision**
 🚀If you are interested in this topic, please feel free to contact me.
--  Aging plantations are constrained by a biophysical ceiling on carbon and ecological co-benefits. Submitted to Nature Commnuications
+-  Aging plantations are constrained by a biophysical ceiling on carbon and ecological co-benefits. Submitted to Nature commnuications
 -  Estimating Forest Canopy Gap at the National Scale by Simulating GEDI Waveforms from UAV Point Cloud Data. In submission.
 
 **Published/Accepted/In Press**
