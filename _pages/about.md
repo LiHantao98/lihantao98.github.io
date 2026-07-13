@@ -33,7 +33,7 @@ Publication
 - **Li H** , Li, X., Kato, T., Inukai, S., & Hiroshima, T. (2025). National-scale calibrated GEDI AGBD models for effective assessment of growth conditions across forest strata[J]. Forest Ecology and Management, 2025, 585, 122657.
 - **Li H**, Li X, Hiroshima T, et al. (2025). Improving GEDI geolocation accuracy with ultra-high-resolution DTM data in Japan[J]. GIScience & Remote Sensing, 62(1).
 - **Li H**, Hiroshima T, Li X, et al. (2026). Assessing Temporal Trends of Forest Aboveground Biomass Density in Japan from 2009 to 2018 under Disturbance Regimes Using Multisource Remote Sensing Data[J]. Journal of Forestry Research.
-- **Li H**, Huang L, Wessels K, et al.  et al. (2026). Aging plantations are constrained by a biophysical ceiling on carbon and ecological co-benefits[J]. Forest Ecology and Management
+- **Li H**, Huang L, Wessels K, et al.  et al. (2026). Aging plantations are constrained by a biophysical ceiling on carbon and ecological co-benefits[J]. Forest Ecology and Management.
 
 Internships
 ======
