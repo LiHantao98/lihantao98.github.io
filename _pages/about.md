@@ -35,6 +35,9 @@ Publication
 - **Li H**, Hiroshima T, Li X, et al. (2026). Assessing Temporal Trends of Forest Aboveground Biomass Density in Japan from 2009 to 2018 under Disturbance Regimes Using Multisource Remote Sensing Data[J]. Journal of Forestry Research.
 - **Li H**, Huang L, Wessels K, et al.  et al. (2026). Aging plantations are constrained by a biophysical ceiling on carbon and ecological co-benefits[J]. Forest Ecology and Management.
 
+**Reviewer**
+Remote Sensing of Environment, Forest Ecology and Mangement, Science of Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, European Journal of Remote Sensing, PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science
+
 Internships
 ======
 -  OPPO Research Institute, Shenzhen, China; Machine Learning Researcher Intern; December 2021 – February 2022. Developed deep learning models based on large-scale user behavior data extracted from databases to classify active and inactive users. Completed and debugged relevant machine learning code.
